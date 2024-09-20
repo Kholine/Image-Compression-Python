@@ -1,4 +1,4 @@
-# Image-Compression-Python
+# Image Compression Using Python (OpenCV Library)
 
 To run this project you need to first have a virtual environment to run Python.
 
