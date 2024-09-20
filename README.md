@@ -1,2 +1,2 @@
 # Image-Compression-Python
-Uses Pillow Python Image library 
+OpenCV-Python is a library of Python bindings designed to solve computer vision problems.
